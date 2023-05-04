@@ -1,0 +1,15 @@
+Parameter,Model.1,Model.2,F.value,p.value
+Grouped model to no group,26,38,4.1,0.001
+Grouped model to no group for AA.UU,26,27,0.1,0.775
+Grouped model to no group for AU.AU,26,27,1.4,0.240
+Grouped model to no group for UA.UA,26,27,0.0,0.975
+Grouped model to no group for CU.AG,26,27,1.5,0.232
+Grouped model to no group for CA.UG,26,27,0.0,0.983
+Grouped model to no group for GU.AC,26,27,0.7,0.396
+Grouped model to no group for GA.UC,26,27,0.0,0.917
+Grouped model to no group for CG.CG,26,27,0.0,0.861
+Grouped model to no group for GG.CC,26,27,0.1,0.752
+Grouped model to no group for GC.GC,26,27,0.1,0.777
+Grouped model to no group for Term.AU,26,27,0.0,0.925
+Grouped model to AU.AU CU.AG GU.AC only grouped,26,34,0.1,1.000
+Ungrouped model to AU.AU CU.AG GU.AC only grouped,38,34,15.6,0.000

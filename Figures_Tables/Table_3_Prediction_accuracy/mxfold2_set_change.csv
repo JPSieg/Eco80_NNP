@@ -1,0 +1,10 @@
+"Data.table","Effect","N"
+"1.0 kcal/mol penalty","Improved",1502
+"1.0 kcal/mol penalty","Got worse",1596
+"1.0 kcal/mol penalty","No change",1985
+"FBDI Eco80","Improved",1330
+"FBDI Eco80","Got worse",2691
+"FBDI Eco80","No change",1062
+"FDBI 1MNaCl","Improved",1271
+"FDBI 1MNaCl","Got worse",1258
+"FDBI 1MNaCl","No change",2554

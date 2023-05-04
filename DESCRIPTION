@@ -1,0 +1,12 @@
+Package: Eco80NNP
+Title: In Vivo-like Nearest Neighbor Parameters Predict the Fractional RNA Base-pairing in Cells
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jacob", "Sieg", , "jus841@psu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5414-1667"))
+Description: All data, code, and figures for 'In vivo-like nearest neighbor parameters predict the fractional RNA base-pairing in cells'
+License:
+    use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
